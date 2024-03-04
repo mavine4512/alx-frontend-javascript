@@ -1,1 +1,1 @@
-###Web stack specialization - Front-end
+\*Web stack specialization - Front-end

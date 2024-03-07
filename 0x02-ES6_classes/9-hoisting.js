@@ -41,7 +41,6 @@ const student4 = new StudentHolberton('Donald', 'Bush', new HolbertonClass(2019,
 const student5 = new StudentHolberton('Jason', 'Sandler', new HolbertonClass(2019, 'San Francisco'));
 
 const listOfStudents = [student1, student2, student3, student4, student5];
-
 console.log(listOfStudents);
 console.log(listOfStudents.map((student) => student.fullStudentDescription));
 export { listOfStudents };
